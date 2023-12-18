@@ -1,4 +1,4 @@
-# (WIP, 23L18) Hazel Support Framework
+# Hazel Support Framework
 
 This is an evolution of the core ideas backing the former *Construct Infrastructure Deployment Service* [ [1](https://canary.discord.com/channels/1071814425574645830/1169847518276890654/1169849425380769852), [2](x-apple-cloudkit://com.apple.Notes/Notes/Hazel%20IDS#231029) ] internal project, originally intended to serve as a general purpose system for gathering energy for constructs that scale beyond the energy capacity of a single person.
 
@@ -11,7 +11,7 @@ Past implementations irrelevant, the idea behind HSF is to:
 4. Repeat this process on the first Tuesday of each month, and keep detailed [internal records](clouddocs:///Documents/Metaphysics/Infrastructure/hazelsupportframework.internal/).
 
 ```
-Document Path: //libhazeltine/original-content/projects/support-framework/WIP-README.md
+Document Path: //libhazeltine/original-content/projects/support-framework/README.md
 Document Revision Tag: hazelsupportframeworkreadme.23L18.internal
 Document Creation Date: 18th December, 2023
 Document Planned Publication Date: 21st December, 2023
