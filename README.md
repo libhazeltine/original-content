@@ -14,8 +14,8 @@ In general, effort is being shifted towards mostly solo, internally developed ex
 Mondays and Wednesdays, after my work (4:30pm pacific), and occasionally all day on Tuesdays, are dedicated time for metaphysical practice, Library indexing/research, and other work on Hazel subprojects. I am available for telepathy and other psionic practice at these times ideally, but we can work out pretty much anything with advance notice.
 
 ```
-Document Path: libhazeltine/original-content/README.md
-Document Version Tag: hazeloriginalcontentreadme.23L17.internal
+Document Path: //libhazeltine/original-content/README.md
+Document Revision Tag: hazeloriginalcontentreadme.23L17.internal
 Document Creation Date: 17th December, 2023
 Document Planned Publication Date: 21st December, 2023
 Project Planned Activation Date: 21st December, 2023
