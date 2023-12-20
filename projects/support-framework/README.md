@@ -1,6 +1,6 @@
 # Hazel Support Framework
 
-This is an evolution of the core ideas backing the former *Construct Infrastructure Deployment Service* [ [1](https://canary.discord.com/channels/1071814425574645830/1169847518276890654/1169849425380769852), [2](x-apple-cloudkit://com.apple.Notes/Notes/Hazel%20IDS#231029) ] internal project, originally intended to serve as a general purpose system for gathering energy for constructs that scale beyond the energy capacity of a single person.
+This is an evolution of the core ideas backing the former *Construct Infrastructure Deployment Service* [ [1](https://canary.discord.com/channels/1071814425574645830/1169847518276890654/1169849425380769852), [2](x-apple-cloudkit://com.apple.Notes/Notes/Hazel%20CIDS#231029) ] internal project, originally intended to serve as a general purpose system for gathering energy for constructs that scale beyond the energy capacity of a single person.
 
 The intended use of this project has evolved to be solely for the deployment of constructs that manifest the success of all other Hazel subprojects. Other uses are no longer planned to be supported.
 
