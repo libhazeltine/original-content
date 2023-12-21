@@ -12,11 +12,10 @@ Past implementations irrelevant, the idea behind HSF is to:
 
 ```
 Document Path: //libhazeltine/original-content/projects/support-framework/README.md
-Document Revision Tag: hazelsupportframeworkreadme.23L20.internal
-Document Creation Date: 18th December, 2023
-Document Planned Publication Date: 21st December, 2023
-Project Name: hazelsupportframework.internal
-Project Planned Activation Date: 2nd January, 2024 (Subject to change)
+Document Revision Tag: hazelsupportframeworkreadme.23L21
+Document Publication Date: 21st December, 2023
+Project Name: hazelsupportframework
+Project Planned Activation Date: January 2024
 ```
 
 ```

@@ -16,12 +16,11 @@ Constructs require both an authentic signature of the sysadmin and physical pres
 
 ```
 Document Path: //libhazeltine/original-content/projects/support-framework/ARCHIVE-cids.md
-Document Revision Tag: hazelsupportframeworkadditionaldocumentationcidsspec.23L20.internal
-Document Archival Date: 20th December, 2023
-Document Planned Publication Date: 21st December, 2023
+Document Revision Tag: hazelsupportframeworkadditionaldocumentationcidsspec.23L21
+Document Archival and Publication Date: 21st December, 2023
 Original Document Creation Date: 29th October, 2023
 Original Document Location: x-apple-cloudkit://com.apple.Notes/Notes/Hazel%20CIDS#231029
-Project Name: hazelsupportframeworkadditionaldocumentation.internal
+Project Name: hazelsupportframeworkadditionaldocumentation
 ```
 
 ```

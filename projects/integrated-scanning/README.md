@@ -8,11 +8,10 @@ Both of these routines are to be heavily integrated with the expansion of the [i
 
 ```
 Document Path: //libhazeltine/original-content/projects/integrated-scanning/README.md
-Document Revision Tag: bellinghamintegratedscanningreadme.23L18.internal
-Document Creation Date: 17th December, 2023
-Document Planned Publication Date: 21st December, 2023
-Project Name: bellinghamintegratedscanning.internal
-Project Planned Activation Date: 22nd December, 2023
+Document Revision Tag: bellinghamintegratedscanningreadme.23L21
+Document Publication Date: 21st December, 2023
+Project Name: bellinghamintegratedscanning
+Project Planned Activation Date: January 2024
 ```
 
 ```

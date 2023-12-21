@@ -16,11 +16,9 @@ For details about this repository, see [Avoiding Discord in favor of an open, kn
 
 ```
 Document Path: //libhazeltine/original-content/README.md
-Document Revision Tag: hazeloriginalcontentreadme.23L21.internal
-Document Creation Date: 17th December, 2023
-Document Planned Publication Date: 21st December, 2023
-Project Planned Activation Date: 21st December, 2023
-Project Name: hazeloriginalcontent.internal
+Document Revision Tag: hazeloriginalcontentreadme.23L21
+Document Publication Date: 21st December, 2023
+Project Name: hazeloriginalcontent
 ```
 
 ```

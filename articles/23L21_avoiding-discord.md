@@ -25,10 +25,9 @@ In addition, a more generic specification will also be published for other commu
 
 ```
 Document Path: //libhazeltine/original-content/articles/23L21_avoiding-discord.md
-Document Revision Tag: hazelpublicationsavoidingdiscord.23L21.internal
-Document Creation Date: 20th December, 2023
-Document Planned Publication Date: 21st December, 2023
-Project Name: hazelpublications.internal
+Document Revision Tag: hazelpublicationsavoidingdiscord.23L21
+Document Publication Date: 21st December, 2023
+Project Name: hazelpublications
 ```
 
 ```
