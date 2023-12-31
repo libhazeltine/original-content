@@ -7,6 +7,7 @@ For details about this repository, see [Avoiding Discord in favor of an open, kn
 ## Article Index
 
 * [Avoiding Discord in favor of an open, knowledge-centric platform](./articles/23L21_avoiding-discord.md)
+* [What's Next \(2024 Project Plans)](./articles/23L31_whats-next.md)
 
 ## Project Index
 
@@ -16,7 +17,7 @@ For details about this repository, see [Avoiding Discord in favor of an open, kn
 
 ```
 Document Path: //libhazeltine/original-content/README.md
-Document Revision Tag: hazeloriginalcontentreadme.23L21
+Document Revision Tag: hazeloriginalcontentreadme.23L31
 Document Publication Date: 21st December, 2023
 Project Name: hazeloriginalcontent
 ```

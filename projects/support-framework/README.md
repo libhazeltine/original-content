@@ -15,7 +15,7 @@ Document Path: //libhazeltine/original-content/projects/support-framework/README
 Document Revision Tag: hazelsupportframeworkreadme.23L21
 Document Publication Date: 21st December, 2023
 Project Name: hazelsupportframework
-Project Planned Activation Date: January 2024
+Project Planned Activation Date: February 2024
 ```
 
 ```
